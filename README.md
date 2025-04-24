@@ -4,7 +4,7 @@ Je viens de finaliser une application web complète utilisant Node.js, Express, 
 🔍 Fonctionnalités principales :
 ✅ Gestion des clients : Ajout, modification et suppression des clients
 
-✅ Recherche par prénom : Recherche rapide de clients par prénom
+✅ Recherche par prénom : Recherche rapide de clients par non
 
 ✅ Affichage dynamique : Utilisation de Moment.js pour l'affichage des dates et heures
 
